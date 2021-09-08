@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1573163110 source:c:\users\caio\desktop\computação gráfica\engrenagem\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1522187454 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
